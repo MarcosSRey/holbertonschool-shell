@@ -1,2 +1,2 @@
 #!/bin/bash
-head --lines=[3]4  iacta > cat
+head -n=3  iacta > cat
