@@ -1,2 +1,2 @@
 #!/bin/bash
-tail iacta >>
+tail --lines=1 iacta  >> iacta
